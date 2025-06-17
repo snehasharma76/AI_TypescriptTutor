@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": "076eab94-ec9b-4efa-b8a7-a62fe578241b",
+      "title": "Complete TypeScript project",
+      "description": "First project in the series",
+      "priority": "high",
+      "status": "in-progress",
+      "createdAt": "2025-06-16T11:41:19.889Z"
+    },
+    {
+      "id": "91924e89-f6ff-4c25-a853-83ff6029c516",
+      "title": "Review TypeScript concepts",
+      "description": "",
+      "priority": "medium",
+      "status": "completed",
+      "createdAt": "2025-06-16T11:41:32.368Z",
+      "completedAt": "2025-06-16T11:42:53.892Z"
+    },
+    {
+      "id": "302e5d00-1f49-46c3-8231-a981569f185b",
+      "title": "Plan next project",
+      "description": "",
+      "priority": "high",
+      "status": "pending",
+      "createdAt": "2025-06-16T11:41:42.090Z"
+    }
+  ]
+}
